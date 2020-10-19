@@ -1,4 +1,13 @@
-### Hi there 👋
+### :wave: Hi there
+My name is Nicolas (he/him) and I am a Digital Games Technology undergraduate student at Universidade Presbiteriana Mackenzie, where I focus my studies at game design and computer programming in C# and JavaScript. In addition to curricular studies, I have been deepening my knowledge about related technologies, such as digital modeling and design, HTML and CSS, and emerging ones, such as artificial intelligence and ray tracing.
+### :mailbox: How to reach me:
+* :page_with_curl: LinkedIn: [linkedin.com/in/nicolasbsousa/](https://www.linkedin.com/in/nicolasbsousa/ "linkedin.com/in/nicolasbsousa/")
+* :e-mail: E-Mail: nicolasbarbierisousa@icloud.com
+
+### :computer: Latest studies and projects:
+* :chart_with_upwards_trend: I have taken a series of courses on AI (through Microsoft) and internet governance (through CGI.br).
+* :pencil2: I am taking a series of courses on JavaScript game development (through Digital Innovation One).
+* :video_game: I have been developing a video game called The Cosmic Adventures of Milt and Gary (of which the source code can be found [here](https://github.com/Nickalverst/The-Cosmic-Adventures-of-Milt-and-Gary "here")).
 
 <!--
 **Nickalverst/Nickalverst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
