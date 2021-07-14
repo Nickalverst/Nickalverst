@@ -5,9 +5,7 @@ My name is Nicolas. My passion for digital games and computers has led me to stu
 * :e-mail: E-Mail: nicolasbarbierisousa@icloud.com
 
 ### :computer: Latest studies and projects:
-* :chart_with_upwards_trend: I have taken a series of courses on AI (through Microsoft) and internet governance (through CGI.br).
-* :pencil2: I am currently taking a series of courses on JavaScript game development (through Digital Innovation One).
-* :video_game: I have been developing a video game called The Cosmic Adventures of Milt and Gary (of which the source code can be found [here](https://github.com/Nickalverst/The-Cosmic-Adventures-of-Milt-and-Gary "here")).
+* :video_game: I have been working on Kartagedom (of which a very early demo can be found [here](https://lukethe117.itch.io/kartagedom "here")).
 
 <!--
 **Nickalverst/Nickalverst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
