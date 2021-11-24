@@ -5,7 +5,7 @@ My name is Nicolas. My passion for digital games and computers has led me to stu
 * :e-mail: E-Mail: nicolasbarbierisousa@icloud.com
 
 ### :computer: Latest studies and projects:
-* :video_game: I have been working on Kartagedom (of which a very early demo can be found [here](https://lukethe117.itch.io/kartagedom "here")).
+* :video_game: I have been working on Kartagedom (which can be found [here](https://lukethe117.itch.io/kartagedom "here")).
 
 <!--
 **Nickalverst/Nickalverst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
